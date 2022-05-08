@@ -1,6 +1,5 @@
 <!--
 **snilesh97/snilesh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile View](https://komarev.com/ghpvc/?username=snilesh97&color=green)
 
 Here are some ideas to get you started:
 
@@ -16,7 +15,10 @@ Here are some ideas to get you started:
 
 # Hello, There 👋!
 
-My name is Nilesh Sharma and I'm a Full Stack Developer, currently working at Raksul. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
+
+My name is Nilesh Sharma ![Profile View](https://komarev.com/ghpvc/?username=snilesh97&color=blue)
+ and I'm a Full Stack Developer, currently working at Raksul. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
+
 
 I’m currently learning ![](https://img.shields.io/badge/React-121011?style=for-the-badge&logo=react&logoColor=blue) ![](https://img.shields.io/badge/&-white) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
