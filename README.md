@@ -1,5 +1,6 @@
 <!--
 **snilesh97/snilesh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile View](https://komarev.com/ghpvc/?username=snilesh97&color=green)
 
 Here are some ideas to get you started:
 
