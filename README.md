@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 My name is Nilesh Sharma ![Profile View](https://komarev.com/ghpvc/?username=snilesh97&color=blue)
- and I'm a Full Stack Developer, currently working at Raksul. You can find me on [![Linkedin][1.2]][2] or on [![Github][1.1]][1]
-
+ and I'm a Full Stack Developer, currently working at Raksul. You can find me on [![Linkedin][1.2]][2]
 
 I’m currently learning ![](https://img.shields.io/badge/React-121011?style=for-the-badge&logo=react&logoColor=blue) ![](https://img.shields.io/badge/&-white) ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
